@@ -1,6 +1,3 @@
-Here’s a polished and professional version of your README section for **Grilli**, with improved grammar, formatting, and clarity, while keeping the original information:
-
-````md
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 # Grilli
@@ -44,5 +41,3 @@ cd grilli
 ### Contact
 
 You can reach me via [Twitter](https://www.twitter.com/darkerman07) for questions or collaboration.
-If you want, I can also **add a “Features” and “Tech Stack” section** to make it look more professional for GitHub.
-```
