@@ -1,32 +1,48 @@
+Here’s a polished and professional version of your README section for **Grilli**, with improved grammar, formatting, and clarity, while keeping the original information:
+
+````md
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+# Grilli
+
+A modern desktop application project. Follow the instructions below to set up and run it locally.
+
+---
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, make sure you have the following installed on your system:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads) – for cloning the repository.
+
+---
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
+To run **Grilli** locally, clone the repository using the commands below:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
+**Linux and macOS:**
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/darkerman07/Grilli.git
+````
+
+**Windows:**
+
+```bash
+git clone https://github.com/darkerman07/Grilli.git
 ```
+
+Then navigate into the project folder:
+
+```bash
+cd grilli
+```
+
+---
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-# Grilli
+You can reach me via [Twitter](https://www.twitter.com/darkerman07) for questions or collaboration.
+If you want, I can also **add a “Features” and “Tech Stack” section** to make it look more professional for GitHub.
+```
